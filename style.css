@@ -101,7 +101,7 @@ div.c2{
   height:250px;
   background: #228B22;
 }
-#footer {
+.footer {
   width: 145%
-  background: #FED6BC;
+  background-color: #996666;
 }
