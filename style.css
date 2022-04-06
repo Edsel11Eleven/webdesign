@@ -91,17 +91,18 @@ nav ul li:hover ul {
 
 div.c1{
   float: left;
-  width:72%;
+  width:50%;
   height:250px;
   background: #FED6BC;
 }
 div.c2{
   float: left;
-  width:72%;
-  height:250px;
+  width:50%;
+  height:100px;
   background: #228B22;
 }
-#footer {
-  width: 145%;
+
+footer {
+  width: 145%
   background-color: #996666;
 }
