@@ -78,7 +78,7 @@ nav ul li:hover ul {
   opacity: 1;
   visibility: visible;
 }
-#wrapper-table {
+.wrapper-table {
 width: 145%;
 overflow: hidden;
 }
