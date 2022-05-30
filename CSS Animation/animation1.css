@@ -16,52 +16,52 @@ body {
 }
 .layer-4 {
      animation: animation_fg linear 120s infinite both; 
-	 background: url(https://raw.githubusercontent.com/Eleven11Spiders/Berry-Cider-Coriolis-Generator/main/animation/sky.png) 0 100% repeat-x;
+	 background: url(https://raw.githubusercontent.com/Edsel11Eleven/webdesign/main/CSS%20Animation/nebo.png) 0 100% repeat-x;
 	 z-index: 1;
 	 position: absolute;
 	 bottom: 0;
 	 left: 0;
 	 width: 100%;
 	 height: 100%;
-	 background-size: auto 512px;
+	 background-size: auto 500px;
 }
 .layer-3 {
      animation: animation_fg linear 95s infinite both; 
-	 background: url(https://raw.githubusercontent.com/Eleven11Spiders/Berry-Cider-Coriolis-Generator/main/animation/forest1.png) 0 100% repeat-x;
+	 background: url(https://raw.githubusercontent.com/Edsel11Eleven/webdesign/main/CSS%20Animation/holm1.png) 0 100% repeat-x;
 	 z-index: 1;
 	 position: absolute;
 	 bottom: 0;
 	 left: 0;
 	 width: 100%;
 	 height: 100%;
-	 background-size: auto 315px;
+	 background-size: auto 131px;
 }
 
 .layer-2 {
      animation: animation_fg linear 70s infinite both; 
-	 background: url(https://raw.githubusercontent.com/Eleven11Spiders/Berry-Cider-Coriolis-Generator/main/animation/forest2.png) 0 100% repeat-x;
+	 background: url(https://raw.githubusercontent.com/Edsel11Eleven/webdesign/main/CSS%20Animation/holm2.png) 0 100% repeat-x;
 	 z-index: 1;
 	 position: absolute;
 	 bottom: 0;
 	 left: 0;
 	 width: 100%;
 	 height: 100%;
-	 background-size: auto 111px;
+	 background-size: auto 123px;
 }
 
 .layer-1 {
      animation: animation_fg linear 22s infinite both; 
-	 background:  url(https://raw.githubusercontent.com/Eleven11Spiders/Berry-Cider-Coriolis-Generator/main/animation/grass.png) 0 100% repeat-x;
+	 background:  url(https://raw.githubusercontent.com/Edsel11Eleven/webdesign/main/CSS%20Animation/holm3.png) 0 100% repeat-x;
 	 z-index: 1;
 	 position: absolute;
 	 bottom: 0;
 	 left: 0;
 	 width: 100%;
 	 height: 100%;
-	 background-size: auto 74px;
+	 background-size: auto 236px;
 }
 .object-1 {
-     background: url(https://raw.githubusercontent.com/Eleven11Spiders/Berry-Cider-Coriolis-Generator/main/animation/monster.png) 0 100% no-repeat;
+     background: url(https://raw.githubusercontent.com/Edsel11Eleven/webdesign/main/CSS%20Animation/cow.png) 0 100% no-repeat;
 	 z-index: 1;
 	 position: absolute;
 	 bottom: 0px;
@@ -70,19 +70,7 @@ body {
 	 height: 100%;
 	 background-size: auto 277px;
 	 animation: animation_object linear 77s infinite both;
-}
-
-.object-2 {
-     background: url(https://raw.githubusercontent.com/Eleven11Spiders/Berry-Cider-Coriolis-Generator/main/animation/dude.png) 0 100% no-repeat;
-	 z-index: 1;
-	 position: absolute;
-	 bottom: 0px;
-	 left: 0;
-	 width: 100%;
-	 height: 100%;
-	 background-size: auto 277px;
-	 animation: animation_object linear 43s infinite both;
-}
+	
 @keyframes animation_fg {
  0% {
 background-position: 2765px 100%;
